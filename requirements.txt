@@ -1,0 +1,4 @@
+# Khai báo thư viện cần thiết
+python-dotenv
+smtplib
+email

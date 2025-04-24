@@ -1,0 +1,5 @@
+# Bỏ qua file .env
+.env
+__pycache__/
+*.pyc
+backup/
